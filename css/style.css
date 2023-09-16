@@ -61,7 +61,7 @@ a{
 
 /* start header  */
 header{
-    background-color: #000;
+    background-color: #ddd;
     border-bottom: 1px solid rgb(255 255 255 / 20%);
 }
 header .container{
