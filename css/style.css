@@ -61,7 +61,7 @@ a{
 
 /* start header  */
 header{
-    background-color: #ddd;
+    background-color: #000;
     border-bottom: 1px solid rgb(255 255 255 / 20%);
 }
 header .container{
@@ -181,7 +181,7 @@ header .icon-header i:hover{
     margin: 30px 0;
 }
 .landing button{
-    background-color: #fff;
+    background-color: #ddd;
     color: #000;
     padding: 15px 40px;
     border: none;
